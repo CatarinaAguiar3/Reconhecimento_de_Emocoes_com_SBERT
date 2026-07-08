@@ -30,18 +30,16 @@ O conjunto de dados é composto por 149 notas explicativas de 50 empresas de cap
 > 
 O dicionário de emoções (léxico) contém 1.004 termos distribuídos em seis categorias emocionais: Alegria (301), Medo (155), Raiva (136), Repugnância (109), Surpresa (70) e Tristeza (233).
 
-# Tecnologia e Bibliotecas
+# Tecnologias e Técnicas Utilizadas
+**Linguagem**
 - Python 
-- Regex
-- uniecode
-- SentenceTransformers 
-- Nltk
-- spacy
-- re
-- Pandas 
-- NumPy 
-- Matplotlib 
-- OpenPyXL
+  
+**Principais Técnicas Aplicadas**
+- Processamento de Linguagem Natural (NLP) 
+- Sentence-BERT (SBERT) e geração de embeddings 
+- Similaridade Cosseno 
+- Classificação de emoções baseada em léxico
+
 
 # Pipeline
 
