@@ -22,9 +22,9 @@ Por exemplo, em duas frases contendo a palavra "capital", o SBERT gera vetores d
 
 # Dataset
 O conjunto de dados é composto por 149 notas explicativas de 50 empresas de capital aberto, divididos em 3 períodos:
-- Ano da má notícia
-- Ano anterior a má notícia
-- 2 anos após a má notícia
+- `t`: Ano da má notícia
+- `t-1`: Ano anterior a má notícia
+- `t+2`: 2 anos após a má notícia
   
 > OBS: As notas explicativas são uma secção dos relatórios financeiros
 > 
