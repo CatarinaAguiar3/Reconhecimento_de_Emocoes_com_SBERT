@@ -1,6 +1,5 @@
 # Reconhecimento de Emoções em Relatórios Financeiros usando Sentence BERT
-
-<img src="">
+<img src="Figuras\Imagem Banner - Fundo Transparente.png">
 
 # Introdução
 Este projeto usa técnicas de Processamento de Linguagem Natural (NLP) para investigar como empresas brasileiras alteram a linguagem de seus relatórios financeiros após a divulgação de más notícias. O objetivo foi identificar a emoção predominante em notas explicativas de 50 empresas de capital aberto.
